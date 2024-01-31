@@ -1,9 +1,15 @@
-História do Usuário: Como um usuário, eu quero ser capaz de gerenciar minha lista de tarefas de forma eficiente, para que eu possa acompanhar e concluir minhas atividades diárias.
-	1.  Escreva cenários BDD para a história do usuário. Utilize o formato "Dado, Quando, Então" para descrever o 	comportamento esperado da aplicação.
-	2.  Escreva casos de teste para cobrir diferentes aspectos da aplicação, incluindo casos positivos e negativos.
-	3.  Coloque o seu BDD e Casos de teste no github
- ______________________________________________________________________________________________________________________
 ```javascript
+DESAFIO:
+História do Usuário: APP de Tarefas
+Como um usuário,
+eu quero ser capaz de gerenciar minha lista de tarefas de forma eficiente,
+para que eu possa acompanhar e concluir minhas atividades diárias.
+ 1.  Escreva cenários BDD para a história do usuário. Utilize o formato "Dado, Quando, Então" para descrever o 	comportamento esperado da aplicação.
+ 2.  Escreva casos de teste para cobrir diferentes aspectos da aplicação, incluindo casos positivos e negativos.
+ 3.  Coloque o seu BDD e Casos de teste no github
+
+ ______________________________________________________________________________________________________________________
+
 Funcionalidade: gerenciar lista de tarefas
 -Como um usuário
 -Eu quero ser capaz de gerenciar minha lista de tarefas de forma eficiente
